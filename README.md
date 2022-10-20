@@ -24,6 +24,7 @@ The aim of the project is to present skills in html and css. Additionally, it sh
 ![](./screenshot.jpg)
 
 ![](./images/Opera%20Zrzut%20ekranu_2022-10-17_210510_127.0.0.1.png)
+
 View form Mobile 
 
 ![](./images/Opera%20Zrzut%20ekranu_2022-10-17_210538_127.0.0.1.png)
