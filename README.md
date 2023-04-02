@@ -32,7 +32,6 @@ View from Deskop
 ### Links
 
 - Solution URL: (https://github.com/domizalewska/Qr-code/blob/main/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
