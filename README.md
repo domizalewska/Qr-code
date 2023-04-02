@@ -10,7 +10,6 @@ This project is my excercise to develop more html and CSS. The project is taken 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -45,25 +44,6 @@ View from Deskop
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 ### Continued development
 
 
@@ -73,12 +53,12 @@ In the future, I want to focus more on CSS Grid technology and its understanding
 ### Useful resources
 
 - [flynerd.pl](https://www.flynerd.pl/2018/06/jak-napisac-dobre-readme-projektu-na-githubie.html) - This helped me writing a good file of README.md. I really liked the explanation of the writing README file and shows on which point I must focus.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
 
 
 ## Author
 
 - Website - In progress :)
 - Frontend Mentor - [@domizalewska](https://www.frontendmentor.io/profile/domizalewska)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [@domizalewska]
 
